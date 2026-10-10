@@ -1,2 +1,8 @@
 CMakeFiles/
 CMakeCache.txt
+code
+code2
+code_debug
+code_static
+code_test
+code_test2
